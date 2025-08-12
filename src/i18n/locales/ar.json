@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "home": "الرئيسية",
+    "report": "الإبلاغ عن مخالفة",
+    "admin": "لوحة الإدارة",
+    "reviewer": "لوحة المراجعة",
+    "language": "English",
+    "theme": "الوضع المظلم"
+  },
+  "landing": {
+    "title": "نظام الإبلاغ عن المخالفات",
+    "subtitle": "منصة إبلاغ آمنة وسرية",
+    "description": "أبلغ عن المخالفات، تتبع التقدم، وضمن المساءلة من خلال نظام الإدارة الشامل لدينا.",
+    "reportButton": "الإبلاغ عن مخالفة",
+    "adminButton": "لوحة الإدارة",
+    "reviewerButton": "لوحة المراجعة",
+       "getStarted": "ابدأ الآن",
+    "accessPanel": "دخول اللوحة",
+    "startReview": "ابدأ المراجعة"
+  },
+  "report": {
+    "title": "الإبلاغ عن مخالفة",
+    "subtitle": "يرجى تقديم معلومات مفصلة حول المخالفة",
+    "form": {
+      "violationType": "نوع المخالفة",
+      "violationTypePlaceholder": "اختر نوع المخالفة",
+      "description": "وصف المخالفة",
+      "descriptionPlaceholder": "قدم وصفاً مفصلاً...",
+      "date": "تاريخ المخالفة",
+      "location": "مكان المخالفة",
+      "locationPlaceholder": "أين حدثت المخالفة؟",
+      "suspectedPeople": "الأشخاص المشتبه بهم",
+      "suspectedPeoplePlaceholder": "أضف اسم الشخص",
+      "relevantPeople": "الأشخاص الذين لديهم معلومات ذات صلة",
+      "relevantPeoplePlaceholder": "أضف اسم الشخص",
+      "attachments": "المرفقات",
+      "addPerson": "إضافة شخص",
+      "addAttachment": "إضافة ملف",
+      "submit": "إرسال البلاغ",
+      "required": "هذا الحقل مطلوب"
+    },
+    "success": {
+      "title": "تم إرسال البلاغ بنجاح",
+      "referenceNumber": "الرقم المرجعي",
+      "saveMessage": "يرجى حفظ هذا الرقم المرجعي للمتابعة المستقبلية",
+      "notification": {
+        "title": "احصل على التحديثات",
+        "description": "أدخل بريدك الإلكتروني لتلقي تحديثات حول بلاغك",
+        "email": "عنوان البريد الإلكتروني",
+        "emailPlaceholder": "your.email@example.com",
+        "subscribe": "اشترك في التحديثات"
+      }
+    }
+  },
+  "admin": {
+    "title": "لوحة الإدارة",
+    "subtitle": "إدارة ومراجعة جميع تقارير المخالفات",
+    "table": {
+      "reference": "المرجع",
+      "type": "النوع",
+      "date": "التاريخ",
+      "location": "الموقع",
+      "status": "الحالة",
+      "actions": "الإجراءات",
+      "view": "عرض",
+      "edit": "تحرير"
+    },
+    "status": {
+      "pending": "قيد الانتظار",
+      "under_review": "قيد المراجعة",
+      "resolved": "محلول"
+    }
+  },
+  "reviewer": {
+    "title": "لوحة المراجعة",
+    "subtitle": "مراجعة حالات المخالفات المخصصة",
+    "form": {
+      "reviewNotes": "ملاحظات المراجعة",
+      "reviewNotesPlaceholder": "أضف تعليقات المراجعة...",
+      "recommendation": "التوصية",
+      "recommendationPlaceholder": "توصيتك لهذه القضية",
+      "status": "تحديث الحالة",
+      "submit": "إرسال المراجعة"
+    }
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ",
+    "success": "نجح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "edit": "تحرير",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "back": "رجوع"
+  }
+}

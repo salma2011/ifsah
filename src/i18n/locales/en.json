@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "home": "Home",
+    "report": "Report Violation",
+    "admin": "Admin Panel",
+    "reviewer": "Review Panel",
+    "language": "العربية",
+    "theme": "Dark Mode"
+  },
+  "landing": {
+    "title": "Violation Reporting System",
+    "subtitle": "Secure and confidential reporting platform",
+    "description": "Report violations, track progress, and ensure accountability through our comprehensive management system.",
+    "reportButton": "Report a Violation",
+    "adminButton": "Admin Dashboard",
+    "reviewerButton": "Reviewer Panel",
+       "getStarted": "Get Started",
+    "accessPanel": "Access Panel",
+    "startReview": "Start Review"
+  },
+  "report": {
+    "title": "Report Violation",
+    "subtitle": "Please provide detailed information about the violation",
+    "form": {
+      "violationType": "Type of Violation",
+      "violationTypePlaceholder": "Select violation type",
+      "description": "Description of Violation",
+      "descriptionPlaceholder": "Provide detailed description...",
+      "date": "Date of Violation",
+      "location": "Location of Violation",
+      "locationPlaceholder": "Where did the violation occur?",
+      "suspectedPeople": "Suspected People",
+      "suspectedPeoplePlaceholder": "Add person name",
+      "relevantPeople": "People with Relevant Information",
+      "relevantPeoplePlaceholder": "Add person name",
+      "attachments": "Attachments",
+      "addPerson": "Add Person",
+      "addAttachment": "Add File",
+      "submit": "Submit Report",
+      "required": "This field is required"
+    },
+    "success": {
+      "title": "Report Submitted Successfully",
+      "referenceNumber": "Reference Number",
+      "saveMessage": "Please save this reference number for future tracking",
+      "notification": {
+        "title": "Get Notified",
+        "description": "Enter your email to receive updates about your report",
+        "email": "Email Address",
+        "emailPlaceholder": "your.email@example.com",
+        "subscribe": "Subscribe to Updates"
+      }
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "subtitle": "Manage and review all violation reports",
+    "table": {
+      "reference": "Reference",
+      "type": "Type",
+      "date": "Date",
+      "location": "Location",
+      "status": "Status",
+      "actions": "Actions",
+      "view": "View",
+      "edit": "Edit"
+    },
+    "status": {
+      "pending": "Pending",
+      "under_review": "Under Review",
+      "resolved": "Resolved"
+    }
+  },
+  "reviewer": {
+    "title": "Reviewer Panel",
+    "subtitle": "Review assigned violation cases",
+    "form": {
+      "reviewNotes": "Review Notes",
+      "reviewNotesPlaceholder": "Add your review comments...",
+      "recommendation": "Recommendation",
+      "recommendationPlaceholder": "Your recommendation for this case",
+      "status": "Update Status",
+      "submit": "Submit Review"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back"
+  }
+}
